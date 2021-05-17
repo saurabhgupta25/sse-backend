@@ -1,0 +1,6 @@
+nodeProcessCommandLine: "D:\Program Files (x86)\nodejs\10.15.2\node.exe"
+loggingEnabled: true
+maxLogFileSizeInKB: 1024
+maxTotalLogFileSizeInKB: 204800
+maxLogFiles: 200
+flushResponse: true
